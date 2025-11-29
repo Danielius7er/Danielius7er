@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=tokyonight"/>
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_pwoocommerce.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+</div>
+
+<div align="center">
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <div id="particles-js" style="position:absolute;width:100%;height:300px;"></div>
+  <script>
+    particlesJS("particles-js", {"particles":{"number":{"value":80},"color":{"value":"#00ffcc"},"shape":{"type":"circle"},"opacity":{"value":0.5},"size":{"value":3},"move":{"enable":true,"speed":2}},"interactivity":{"detect_on":"canvas","events":{"onhover":{"enable":true,"mode":"repulse"}}}});
+  </script>
+  <h1 style="position:relative;z-index:2;color:#fff;">Seu Nome</h1>
 </div>
