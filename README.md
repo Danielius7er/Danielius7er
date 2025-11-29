@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="GitHub Banner showcasing a professional profile" width="100%">
+</div>
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&width=600&lines=Olá,+eu+sou+o+Daniel+%F0%9F%91%8B;Desenvolvedor+Aprendiz;Apaixonado+por+tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
