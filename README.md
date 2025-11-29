@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&width=600&lines=Olá,+eu+sou+o+Seu+Nome+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
