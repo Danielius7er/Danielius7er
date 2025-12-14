@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá,Bonjour, Hello I am Daniel
+Bonjour,Olá eu sou o Daniel, Hello I am Daniel
 Currently learning about Computers, WEB Dev and a Bit of C# and security<br>Atualmente aprendendo sobre informática,desenvolvimento Web, e um pouco de C# e segurança<br>E querendo contribuir para a comunidade
 
 
