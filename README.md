@@ -19,11 +19,11 @@ Currently learning about Computers, WEB DEV, DATABASES and a Bit of security<br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 🔭 I’m currently working on Projects
--🌱 I’m currently learning WEB DEV
+-🌱 I’m currently learning Cibersecurity and AI with Python
 - 👯 I’m looking to collaborate on co-programming
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about Anything about my stack
-- 📫 How to reach me: Very soon on Linkedin/Em breve no Linkedid
+- 📫 How to reach me: www.linkedin.com/in/daniel-almeida-7b7647391
 -->
 
 <div align="center">
