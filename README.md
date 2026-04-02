@@ -8,6 +8,7 @@ Currently learning about Computers, WEB DEV, DATABASES and a Bit of security<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Danielius7er&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![Danielius7er GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielius7er)](https://github.com/Danielius7er/github-readme-stats)
+![Danielius7er GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielius7er&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Danielius7er&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielius7er&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
