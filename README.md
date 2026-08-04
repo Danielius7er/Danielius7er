@@ -96,12 +96,6 @@ I enjoy building practical projects, learning new technologies, and contributing
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Danielius7er&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -112,8 +106,11 @@ I enjoy building practical projects, learning new technologies, and contributing
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Danielius7er\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8)
+<div align="center">
 
+![](https://github-profile-trophy.vercel.app/?username=Danielius7er&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+
+</div>
 ---
 
 ## 🌐 Connect With Me
