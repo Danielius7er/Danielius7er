@@ -10,7 +10,6 @@ I'm a Software Development student from Angola passionate about technology, prob
 
 Currently focused on:
 
-* 🌐 Web Development
 * ⚙️ Backend Engineering
 * 🗄️ Databases & Data Modeling
 * 🤖 Artificial Intelligence with Python
