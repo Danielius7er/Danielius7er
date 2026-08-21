@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Almeida
+# 👋 Hi, I'm Danil
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Daniel+Almeida+%F0%9F%91%8B;Software+Development+Student;Backend+%7C+Cybersecurity+%7C+AI;Always+Learning+New+Things" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I'm a Software Development student from Angola passionate about technology, problem solving, and continuous learning.
+I'm a Software Development student passionate about technology, problem solving, and continuous learning.
 
 Currently focused on:
 
@@ -115,12 +115,6 @@ I enjoy building practical projects, learning new technologies, and contributing
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Almeida-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/daniel-almeida-7b7647391)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Danielius7er-black?style=for-the-badge\&logo=github)](https://github.com/Danielius7er)
-
----
-
-## 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=Danielius7er\&icon=5\&color=6)
 
 ---
 
