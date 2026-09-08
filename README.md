@@ -85,8 +85,11 @@ I enjoy building practical projects, learning new technologies, and contributing
 ---
 ## Languages
 <div align="center">
-  [![Your Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielius7er&layout=compact)](https://github.com/Danielius7er/github-readme-stats)
+
+[![Your Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielius7er&layout=compact)](https://github.com/Danielius7er/github-readme-stats)
+
 </div>
+---
 
 ## 📊 GitHub Stats
 
