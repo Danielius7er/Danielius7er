@@ -73,7 +73,6 @@ I enjoy building practical projects, learning new technologies, and contributing
 * 🤖 Artificial Intelligence
 * 🗄️ Database Design
 * ☁️ DevOps & Cloud
-* 🌍 Open Source Contributions
 
 ---
 
@@ -84,6 +83,10 @@ I enjoy building practical projects, learning new technologies, and contributing
 * TryHackMe Learning Paths (Learning)
 
 ---
+## Languages
+<div align="center">
+  ![Your Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielius7er&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## 📊 GitHub Stats
 
