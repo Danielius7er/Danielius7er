@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danil
+# 👋 Hi, I'm Daniel
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Daniel+Almeida+%F0%9F%91%8B;Software+Development+Student;Backend+%7C+Cybersecurity+%7C+AI;Always+Learning+New+Things" alt="Typing SVG" />
