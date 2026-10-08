@@ -99,14 +99,6 @@ I enjoy building practical projects, learning new technologies, and contributing
 </div>
 
 
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Danielius7er&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
-
-</div>
 ---
 
 ## 🌐 Connect With Me
