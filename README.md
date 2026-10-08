@@ -99,13 +99,6 @@ I enjoy building practical projects, learning new technologies, and contributing
 </div>
 
 
----
-
-## 📈 Contribution Graph
-
-[![Daniel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danielius7er\&theme=tokyo-night)](https://github.com/Danielius7er)
-
----
 
 ## 🏆 GitHub Trophies
 
