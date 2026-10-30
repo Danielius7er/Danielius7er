@@ -11,7 +11,6 @@ I'm a Software Development student passionate about technology, problem solving,
 Currently focused on:
 
 * ⚙️ Backend Engineering
-* 🗄️ Databases & Data Modeling
 * 🤖 Artificial Intelligence with Python
 * 🔒 Cybersecurity & Networking
 * ☁️ Cloud & DevOps Fundamentals
